@@ -1,6 +1,7 @@
 ### Instructions
 
-Clone this repository and open with chrome.
+1) Clone this repository
+2) run ```npm install browserify```
 
 
 ## Authors
